@@ -20,12 +20,12 @@ private StudentRepository studentRepository;
 	@Override
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
-		Student student1=new Student("Ramesh","Kumar","ramesh@gamil.com");
-		studentRepository.save(student1);
-		Student student2=new Student("Ram","Kumar","ram@gamil.com");
-		studentRepository.save(student2);
-				Student student3=new Student("Suresh","Kumar","suresh@gamil.com");
-		studentRepository.save(student3);
+//		Student student1=new Student("Ramesh","Kumar","ramesh@gamil.com");
+//		studentRepository.save(student1);
+//		Student student2=new Student("Ram","Kumar","ram@gamil.com");
+//		studentRepository.save(student2);
+//				Student student3=new Student("Suresh","Kumar","suresh@gamil.com");
+//		studentRepository.save(student3);
 		
 		
 	}
